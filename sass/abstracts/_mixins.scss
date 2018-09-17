@@ -1,0 +1,7 @@
+@mixin heading-text($font-size,$font-weight,$letter-spacing) {
+    color:$color-white;
+    font-size: $font-size;
+    font-weight: $font-weight;
+    letter-spacing: $letter-spacing;
+    display: block;
+}
